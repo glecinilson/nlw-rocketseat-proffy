@@ -1,0 +1,19 @@
+{
+  "name": "proffy",
+  "version": "1.0.0",
+  "scripts": {
+    "run:server": "nodemon src/server.js",
+    "run:db": "node src/database/db.js"
+  },
+  "repository": "git@github.com:glecinilson/nlw-rocketseat-proffy.git",
+  "author": "Glecinilson Braga da Silva <glecinilson@gmil.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2",
+    "sqlite-async": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
