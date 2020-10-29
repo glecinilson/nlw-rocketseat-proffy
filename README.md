@@ -1,31 +1,50 @@
+<h1 align="center">
+    <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
+</h1>
+
 <p align="center">
-  <img src="https://ik.imagekit.io/de06wrjhqx/landing_DQePVHd3D.svg" width="350" >
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
-# nlw-rocketseat-proffy
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=8257E5&labelColor=000000" alt="PRs welcome!" />
 
-## 📋 Índice
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
+</p>
 
-- [Sobre](#-Sobre)
-- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
+<br>
+
+<p align="center">
+  <img alt="Proffy" src=".github/proffy.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+## 💻 Projeto
+
+O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
+
+## 🔖 Layout
+
+Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+
+- [Layout Web](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
+- [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile)
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
-## 📖 Sobre 
-
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 3 a 9 de Agosto de 2020.
-
-A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!! 
-
---- 
-
-## 🚀 Tecnologias utilizadas
-
-O projeto está desenvolvido utilizando as seguintes tecnologias:
-
-- HTML
-- CSS
-- JavaScript
-- Node.js 
-- Nunjucks 
-- SQLite 
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
